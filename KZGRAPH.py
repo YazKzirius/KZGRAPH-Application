@@ -1,4 +1,3 @@
-#AQA A-LEVEL COMPUTER SCIENCE NEA COURSEWORK CODE
 #KZGRAPH APPLICATION
 #Import Important libraries
 from tkinter import *
